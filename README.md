@@ -5,8 +5,8 @@
 > 🎮 **[Live Demo](https://short-handed-poker-odds-calculator.vercel.app/)** | ⚡ **Deterministic Calculation** | 🔧 **Web Workers** | 📊 **Real-time Results**
 
 <div align="center">
-  
-<img width="1419" height="1027" alt="Screenshot 2025-10-19 130354" src="https://github.com/user-attachments/assets/1492642b-65f7-481b-8331-b7adff853443" />
+
+<img width="1446" height="1038" alt="short-handed-poker-odds-calculator" src="https://github.com/user-attachments/assets/8acd36aa-3a6c-4632-8536-b2fbc32dd3d6" />
 
 _Interactive card placement and real-time odds calculation_
 
